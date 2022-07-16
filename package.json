@@ -1,0 +1,22 @@
+{
+  "name": "belajar-mongo-db",
+  "version": "1.0.0",
+  "description": "MongoDB X NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPuPush/belajar-mongo-db.git"
+  },
+  "author": "cpupush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPuPush/belajar-mongo-db/issues"
+  },
+  "homepage": "https://github.com/CPuPush/belajar-mongo-db#readme",
+  "dependencies": {
+    "mongodb": "^4.8.0"
+  }
+}
